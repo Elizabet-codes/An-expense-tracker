@@ -90,8 +90,8 @@ function displayValues() {
 
   balanceLeft.innerText = `${total}`;
 
-  incomeMade.innerText = `${income}`;
-  expense.innerText = `${expense}`;
+  incomeMade.innerText = `$${income}`;
+  expenses.innerText = `$${expense}`;
 }
 
 //remove inserted el

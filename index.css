@@ -46,6 +46,7 @@ body {
   margin: auto;
 }
 .exp-inc {
+    
   width: 50%;
   height: 15vh;
   color: white;
@@ -70,7 +71,13 @@ body {
 
 .income,
 .expenses {
-  font-size: 1.5rem;
+  font-size: 1.3rem;
+ 
+}
+
+.exp-label{
+    height:30px;
+    font-size:.8rem;
 }
 
 .all-transactions {
